@@ -1,0 +1,1 @@
+Este é um repositório teste paara ensinar como Git funciona.
